@@ -26,6 +26,7 @@
     display: flex;
     flex-direction: column;
     gap: var(--space-50);
+    text-align: center;
 }
 
 .profile__about > .title {
@@ -43,6 +44,7 @@
 
 .profile__bio {
     font-size: var(--font-size-normal);
+    text-align: center;
 }
 
 .profile__links {
@@ -69,6 +71,7 @@
     padding: var(--space-150);
     text-align: center;
     text-decoration: none;
+    overflow-wrap: break-word;
 }
 
 .profile__links > li > a:hover, .profile__links > li > a:focus {
