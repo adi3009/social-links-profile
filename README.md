@@ -20,7 +20,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Demo URL](https://adi3009.github.io/social-link-profile/)
+- Live Site URL: [Demo URL](https://adi3009.github.io/social-links-profile/)
 
 ## My process
 
