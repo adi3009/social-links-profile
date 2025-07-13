@@ -1,0 +1,22 @@
+:root {
+    /* colors */
+    --color-green: hsl(75, 94%, 57%);
+    --color-white: hsl(0, 0%, 100%);
+    --color-grey-700: hsl(0, 0%, 20%);
+    --color-grey-800: hsl(0, 0%, 12%);
+    --color-grey-900: hsl(0, 0%, 8%);
+
+    /* typography */
+    --font-size-big: 1.5rem; /* 24px; */
+    --font-size-normal: 0.875; /* 14px; */
+    --line-height-default: 150%;
+    --letter-spacing-default: 0;
+
+    /* spacing */
+    --space-500: 2.5em; /* 40px */;
+    --space-300: 1.5em; /* 24px; */
+    --space-200: 1.0em; /* 16px; */
+    --space-150: 0.75em; /* 12px; */
+    --space-100: 0.5em; /* 8px; */
+    --space-50: 0.25em; /* 4px; */
+}
